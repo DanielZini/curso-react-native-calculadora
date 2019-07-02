@@ -1,2 +1,2 @@
-# curso-react-native-calculadora
-Curso de React Native por COD3R
+# Calculadora
+Capitulo 2 do curso de React Native desenvolvido pela COD3R e distribuído através da plataforma de ensino Udemy.
